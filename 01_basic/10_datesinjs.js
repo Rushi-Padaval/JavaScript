@@ -7,3 +7,4 @@ console.log(myDate.toLocaleDateString());
 console.log(myDate.toJSON());
 console.log(myDate.getHours());
 console.log(myDate.toTimeString());
+console.log(typeof myDate);
