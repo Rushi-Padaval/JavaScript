@@ -12,4 +12,5 @@ function addTwoNumbers (Number1,Number2){
     console.log(Number1+Number2)
 }
 
-addTwoNumbers(4,1)
+const result = addTwoNumbers(4,1)
+console.log("Result: ", result);
