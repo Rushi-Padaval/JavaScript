@@ -7,4 +7,4 @@ function Loggedusername  (username) {
 
     //
 }
-console.log(Loggedusername());
+console.log(Loggedusername());t 
