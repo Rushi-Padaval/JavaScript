@@ -4,3 +4,4 @@ function getnewarray(getArray){
     return getArray[0]
 }
 console.log(getnewarray(mynewArray));
+//
