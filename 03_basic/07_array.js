@@ -7,3 +7,4 @@ function getnewarray(getArray) {
 
 console.log(getnewarray(mynewArray));
 //
+//
