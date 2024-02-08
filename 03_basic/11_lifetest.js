@@ -20,3 +20,6 @@ function rushi() {
         console.log(`RUSHIKESH ${name}`);
 
 })(`RUSHI`)
+
+
+
