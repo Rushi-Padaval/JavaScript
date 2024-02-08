@@ -9,6 +9,14 @@ function rushi() {
 })();   // after one function to print the another function we need to add ; paranthesis to end
 
 
-(() => {
-    console.log(`HEY RUSHIKESH PADAVAL`)
-})()
+((name) => {
+    console.log(`RUSHIKESH PADAVAL ${name}`)
+})(`hey`)
+
+
+
+((name) =>
+    {
+        console.log(`RUSHIKESH ${name}`);
+
+})(`RUSHI`)

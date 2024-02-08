@@ -6,4 +6,11 @@
 ( () => {
     console.log(`RUSHIKESH`);
 
-})()
+})();
+
+
+((name) =>
+    {
+        console.log(`${name}`);
+    }
+)(`rushi`)
