@@ -13,7 +13,7 @@ function rushi() {
     console.log(`RUSHIKESH PADAVAL ${name}`)
 })(`hey`)
 
-
+//
 
 ((name) =>
     {
